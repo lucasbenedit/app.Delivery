@@ -1,1 +1,1 @@
-Esse App e de delivery para instala npm install <img width="1320" height="2868" alt="simulator_screenshot_D4852758-3999-4D8A-BBE1-DFC97C6553D0" src="https://github.com/user-attachments/assets/37917e26-7361-4a3f-a012-599c3c5d5952" />
+Esse App e de delivery para instala npm install <img width="250" height="450" alt="simulator_screenshot_D4852758-3999-4D8A-BBE1-DFC97C6553D0" src="https://github.com/user-attachments/assets/37917e26-7361-4a3f-a012-599c3c5d5952" />
